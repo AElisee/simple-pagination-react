@@ -8,7 +8,11 @@ const Meals = ({ meals, currentPage }) => {
           <span>s</span>imple Pagination react
         </h1>
         <p>
-          <a href="http://" target="_blank" rel="noopener noreferrer">
+          <a
+            href="https://levelup.gitconnected.com/a-simple-guide-to-pagination-in-react-facd6f785bd0"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             lien tuto
           </a>
         </p>
